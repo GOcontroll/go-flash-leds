@@ -1,0 +1,22 @@
+{
+    "name": "go-flash-leds",
+    "version": "1.0.0",
+    "description": "A utility to flash the leds of the controller",
+    "dependencies": {
+        "i2c-bus": "5.2.3"
+    },
+    "repository": {
+        "type": "",
+        "url": ""
+    },
+    "license": "MIT",
+    "keywords": [
+        "GOcontroll"
+    ],
+    "author": {
+        "name": "",
+        "email": "",
+        "url": ""
+    },
+	"bin": "flash-led.js"
+}
